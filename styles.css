@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0%;
+	padding:0%;
+	box-sizing:border-box;
+	color:white;
+}
+body{
+	background:black;
+}
+div{
+	margin:20px;
+}
+.Movie-pic{
+	width:200px;
+	margin-inline:150px;
+	height:250px;
+}
+.Movie-detail{
+	width:350px;
+	font-size:15px;
+	text-align:center;
+	margin-inline:80px;
+	position:absolute;
+}
