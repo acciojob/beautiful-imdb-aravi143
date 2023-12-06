@@ -12,12 +12,12 @@ body{
 div{
 	margin:20px;
 }
-.Movie-pic{
+.moviePic{
 	width:200px;
 	margin-inline:150px;
 	height:250px;
 }
-.Movie-detail{
+.movieDetail{
 	width:350px;
 	font-size:15px;
 	text-align:center;
